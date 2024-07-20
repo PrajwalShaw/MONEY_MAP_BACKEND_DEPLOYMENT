@@ -22,4 +22,4 @@ app.use('/financial-records' , financialRecordRouter);
 
 dbConnection();
 
-export default index;
+export default app;
